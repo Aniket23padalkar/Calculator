@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+            integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+            crossorigin="anonymous"
+            referrerpolicy="no-referrer"
+        />
+        <link rel="stylesheet" href="style.css" />
+        <title>Calculator Advanced</title>
+    </head>
+    <body>
+        <div class="wrapper">
+            <main>
+                <div id="display"></div>
+                <div id="button-section">
+                    <button class="button">C</button>
+                    <button class="button" data-value="DEL">
+                        <i class="fa-solid fa-delete-left"></i>
+                    </button>
+
+                    <button class="button">7</button>
+                    <button class="button">8</button>
+                    <button class="button">9</button>
+                    <button class="button">/</button>
+
+                    <button class="button">4</button>
+                    <button class="button">5</button>
+                    <button class="button">6</button>
+                    <button class="button">*</button>
+
+                    <button class="button">1</button>
+                    <button class="button">2</button>
+                    <button class="button">3</button>
+                    <button class="button">+</button>
+
+                    <button class="button">0</button>
+                    <button class="button">.</button>
+                    <button class="button">-</button>
+                    <button class="button">=</button>
+                </div>
+                <div id="history">History</div>
+            </main>
+            <div id="history-container" class="hidden">
+                <div id="history-list"></div>
+                <button id="clear-history">Clear History</button>
+            </div>
+        </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
