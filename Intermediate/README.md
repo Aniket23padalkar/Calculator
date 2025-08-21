@@ -7,6 +7,10 @@
 -   Full keyboard support
 -   Responsive UI
 
+## Live link
+
+[Intermediate Calculator](https://aniket23padalkar.github.io/Calculator/Intermediate/)
+
 ## Description
 
 This is my **Intermediate Calculator** project.  
