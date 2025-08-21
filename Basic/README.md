@@ -4,6 +4,10 @@
 -   Clear (C) button to reset
 -   Equals (=) button for evaluation
 
+## Live link
+
+[Basic Calculator](https://aniket23padalkar.github.io/Calculator/Basic/)
+
 ## Description
 
 This was my **first JavaScript project**. I kept it simple because I wanted to focus on **fundamentals** like event handling, updating the DOM, and handling input logic.
