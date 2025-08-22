@@ -19,7 +19,7 @@ This is my **Advanced Calculator** project.
 In my second project `(ToDo app)` I realized how much local storage changes the logic.  
 So I built this project mainly to practice it.
 
-## How It Works
+## How It Works (Javascript Logic)
 
 -   Button / key press → update `input`
 -   **C:** clear and show `0`

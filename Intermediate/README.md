@@ -18,7 +18,7 @@ Here I explored functions more deeply and added keyboard support.
 I also handled multiple arithmetic operators in the input.  
 Honestly, I learned a lot while making this.
 
-## How It Works
+## How It Works (Javascript Logic)
 
 -   Each button click updates the `input` variable.
 -   **C button:** calls `clearInput()` clears input and sets display to `0`.

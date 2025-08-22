@@ -12,7 +12,7 @@
 
 This was my **first JavaScript project**. I kept it simple because I wanted to focus on **fundamentals** like event handling, updating the DOM, and handling input logic.
 
-## How It Works
+## How It Works (Javascript logic)
 
 -   Each button click updates the `input` variable.
 -   **C button:** clears input and display.
